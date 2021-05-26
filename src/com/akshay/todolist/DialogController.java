@@ -9,9 +9,7 @@ import javafx.scene.control.TextField;
 
 import java.time.LocalDate;
 
-/**
- * Created by timbuchalka on 8/05/2016.
- */
+
 public class DialogController {
 
     @FXML
